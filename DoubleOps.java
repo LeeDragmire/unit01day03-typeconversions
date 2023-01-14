@@ -1,3 +1,5 @@
+// good. we're not going to be using try/catch in this course FYI, so make sure you are aware of alternate methods to catch errors when possible
+
 class DoubleOps {
     public static void main(String[] args) {
         try {
